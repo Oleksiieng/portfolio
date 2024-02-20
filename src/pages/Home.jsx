@@ -5,7 +5,7 @@ function Home() {
     <div style={{ textAlign: 'center', marginTop: '20px' }}>
       <h1>Oleksii Kulykov</h1>
       <img 
-        src="../public/images/face.jpg" 
+        src="images/face.jpg" 
         alt="Oleksii Kulykov" 
         style={{
           width: '200px',

@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <p>© 2024 Your Name. All rights reserved.</p>
+      <p>© 2024 Oleksii Kulykov. All rights reserved.</p>
     </footer>
   );
 }
