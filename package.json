@@ -1,5 +1,5 @@
 {
-  "homepage": "https://oleksiieng.github.io/portfolio/",
+  "homepage": "https://oleksiieng.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
